@@ -1,4 +1,4 @@
-# AtliQ Hospitality Insights Power BI Report
+# AtliQ Hospitality Insights
 
 ![AtliQ Hospitality Power BI Report](https://github.com/user-attachments/assets/8d5f7a3c-33d3-409c-9e04-11a728fd993b)
 
